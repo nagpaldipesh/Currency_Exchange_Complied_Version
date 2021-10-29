@@ -1,8 +1,0 @@
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\bin\Release\netcoreapp3.1\LinkedList.deps.json
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\bin\Release\netcoreapp3.1\LinkedList.dll
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\bin\Release\netcoreapp3.1\LinkedList.pdb
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\obj\Release\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\obj\Release\netcoreapp3.1\LinkedList.AssemblyInfo.cs
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\obj\Release\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\obj\Release\netcoreapp3.1\LinkedList.dll
-C:\Users\dkumar\Desktop\Dipesh\MyProject\ConsoleApp1\LinkedList\obj\Release\netcoreapp3.1\LinkedList.pdb
